@@ -1,5 +1,10 @@
-# License
-The source code is licensed MIT.
+# ts-basic
+
+## twitterbot-ts
+
+> practice ts there
+- [更新ボット](https://github.com/watataku8911/watataku-portfolio-postTwiiter-ts)
+- [今日のコミットボット](https://github.com/watataku8911/github-commit-ts)
 
 ## 1.環境構築
 
